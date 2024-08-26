@@ -1,0 +1,81 @@
+body{
+	margin: 0;
+	background-color: #000000;
+	color: white;
+}
+header{
+	background-color: pastels;
+	padding: 20px;
+	text-align: center;
+	color: white;
+	font-family: Times new roman;
+}
+nav{
+	
+	background-color: #333;
+}
+
+nav a{
+	display: inline-block;
+	float: center;
+	background-color: white;
+	color: black;
+	padding: 15px 107.5px ;
+	text-decoration: none;
+	font-family: times new roman;
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	border-right: 100px;
+	border-color: black;
+	text-align: center;
+
+	vertical-align: bottom;
+}
+nav a:hover{
+	background-color: black;
+	color: white;
+}
+
+.column{
+	float: left;
+	padding: 10px;
+}
+.column.left{
+	width: 350px;
+
+}
+.column.middle{
+	width: 900px;
+}
+
+
+footer{
+	clear: both;
+	background-color: grey;
+	text-align: center;
+	color: white;
+	font-family: comic sans ms;
+}
+.qwe{
+	margin: 0;
+	height: 210px;
+	width: 260px;
+}
+
+.abz{
+	font-family: algerian;
+	font-size: 40px;
+}
+.asdd{
+	font-family: algerian;
+	font-size: 40px;
+}
+.azq{
+	font-family: algerian;
+	font-size: 40px;
+}
+.trtt{
+	font-family: algerian;
+	font-size: 40px;
+}
